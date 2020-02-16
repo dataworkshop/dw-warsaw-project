@@ -1,11 +1,17 @@
-# Welcome to Warsaw Data Workshop project page!
+# Welcome to Warsaw Data Workshop projects page!
 The current discussions are conducted on wiki pages:
 [Wiki](https://github.com/dataworkshop/dw-warsaw-project/wiki)
 # Slack:
 - [Warsaw Group](https://app.slack.com/client/TCCTN4HU3/CG6KBDEAV) 
-# Team
+# Project 1 - Prediction air pollution in Warsaw  
+Team (Alphabetic order)
 - Adrian: [GitHub](https://github.com/apolens) [Linkedin](https://www.linkedin.com/in/adrian-polens-317b8011a/)
+- Agata: 
+- Kamil:
+- Krzysztof:
 - Magdalena: [GitHub]() [Linkedin](https://www.linkedin.com/in/magdalena-cebula/)
-- Michał: [GitHub]() [Linkedin](https://www.linkedin.com/in/kolodziejski/)
+- Oliwia:
+- Władysław:
+
 # Information
 - Git instriction: [Git](https://github.com/dataworkshop/dw-cracow-project/wiki/Podstawy-git)
