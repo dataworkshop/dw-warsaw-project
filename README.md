@@ -6,7 +6,7 @@ The current discussions are conducted on wiki pages:
 # Project 1 - Prediction air pollution in Warsaw  
 Team (Alphabetic order)
 - Adrian: [GitHub](https://github.com/apolens) [Linkedin](https://www.linkedin.com/in/adrian-polens-317b8011a/)
-- Agata: 
+- Agata: [GitHub](https://github.com/agotukie) [Linkedin](https://www.linkedin.com/in/agata-kielmer/)
 - Kamil: [Linkedin](https://www.linkedin.com/in/kamil-polak/)
 - Krzysztof:
 - Magdalena: [GitHub]() [Linkedin](https://www.linkedin.com/in/magdalena-cebula/)
