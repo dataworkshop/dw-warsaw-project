@@ -14,4 +14,4 @@ Team (Alphabetic order)
 - Władysław:
 
 # Information
-- Git instriction: [Git](https://github.com/dataworkshop/dw-cracow-project/wiki/Podstawy-git)
+- Git instruction: [Git](https://github.com/dataworkshop/dw-cracow-project/wiki/Podstawy-git)
