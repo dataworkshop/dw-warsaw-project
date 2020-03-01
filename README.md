@@ -13,6 +13,10 @@ Team: (Alphabetic order)
 - Oliwia:
 - Władysław:
 
+Data:
+#dataset_pm25 - plik z danymi z IMGW+GIOŚ 2014-2018 
+#data_pm25_plus_darks - plik z danymi z darksky+GIOŚ 2015-2019
+
 Jupyter files description:
 
 # Information
