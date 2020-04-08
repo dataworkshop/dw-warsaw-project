@@ -62,6 +62,8 @@ dw-warsaw-project/
     ├── Spotkanie_7
     │   └── Model
     │   │   └── pm25_model_xgb.pkl
+    │   └── Data
+    │   │   └── data_pm25_plus_darksky.csv
     │   ├── Darksky_smog_model_pokaz.ipynb
     │   └── Darksky_smog_prognoza.ipynb
     │
