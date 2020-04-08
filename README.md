@@ -61,9 +61,9 @@ dw-warsaw-project/
     │   └── smog_basic_model_API 2.ipynb
     │
     ├── Spotkanie_7/
-    │   └── Model/
+    │   ├── Model/
     │   │   └── pm25_model_xgb.pkl
-    │   └── Data/
+    │   ├── Data/
     │   │   └── data_pm25_plus_darksky.csv
     │   ├── Darksky_smog_model_pokaz.ipynb
     │   └── Darksky_smog_prognoza.ipynb
