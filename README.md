@@ -23,8 +23,9 @@ Directory structure:
 
 ```text
 dw-warsaw-project/
-├── Data
-│   ├── Data Original
+│
+├── Data/
+│   ├── Data Original/
 │   │   ├── data_pm25_plus_darksky.csv
 │   │   └── dataset_pm25.csv
 │   ├── 2014.zip
@@ -33,52 +34,52 @@ dw-warsaw-project/
 │   ├── data_pm25_plus_darksky.csv
 │   └── dataset_pm25.csv
 │  
-├── Project Final Version
+├── Project Final Version/
 │    └── TBD
 │
 └── Spotkania/
-    ├── Spotkanie_1
+    ├── Spotkanie_1/
     │   ├── SMOG.ipynb
     │   ├── pm_25_1g.ipynb
     │   └── Smog_1_Data_prep.ipynb
     │
-    ├── Spotkanie_2
+    ├── Spotkanie_2/
     │   └── TBD
     │
-    ├── Spotkanie_3
+    ├── Spotkanie_3/
     │   └── TBD
     │
-    ├── Spotkanie_4
+    ├── Spotkanie_4/
     │   └── TBD
     │
-    ├── Spotkanie_5
+    ├── Spotkanie_5/
     │   └── smog_basic_model_API.ipynb
     │
-    ├── Spotkanie_6
+    ├── Spotkanie_6/
     │   ├── regularization_ridge_lasso.ipynb
     │   ├── smog_random forrest.ipynb
     │   └── smog_basic_model_API 2.ipynb
     │
-    ├── Spotkanie_7
-    │   └── Model
+    ├── Spotkanie_7/
+    │   └── Model/
     │   │   └── pm25_model_xgb.pkl
-    │   └── Data
+    │   └── Data/
     │   │   └── data_pm25_plus_darksky.csv
     │   ├── Darksky_smog_model_pokaz.ipynb
     │   └── Darksky_smog_prognoza.ipynb
     │
-    ├── Spotkanie_8
+    ├── Spotkanie_8/
     │   ├── XGBoost_hyperopt.ipynb
     │   ├── gradient_boosting_darksky_AP - niepodl.ipynb
     │   ├── gradient_boosting_darksky_AP.ipynb	
     │   ├── pipelines.ipynb	
     │   └── smog_XGBoost.ipynb	
     │
-    ├── Spotkanie_9
+    ├── Spotkanie_9/
     │   ├── LightGBM_Smog.ipynb
     │   └── smog lstm.ipynb
     │
-    └── Spotkanie_10
+    └── Spotkanie_10/
         └── TBD
 ```
 # Information
