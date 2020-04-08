@@ -23,7 +23,7 @@ Data:
 - dataset_pm25.csv - plik z danymi z IMGW+GIOŚ 2014-2018 
 - data_pm25_plus_darks.csv - plik z danymi z darksky+GIOŚ 2015-2019
 
-Directory structure:
+Project directory structure:
 
 ```text
 dw-warsaw-project/
