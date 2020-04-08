@@ -41,30 +41,30 @@ dw-warsaw-project/
 ├── Project Final Version/
 │    └── TBD
 │
-└── Spotkania/
-    ├── Spotkanie_1/
+└── Meetings/
+    ├── Meeting_1/
     │   ├── SMOG.ipynb
     │   ├── pm_25_1g.ipynb
     │   └── Smog_1_Data_prep.ipynb
     │
-    ├── Spotkanie_2/
+    ├── Meeting_2/
     │   └── TBD
     │
-    ├── Spotkanie_3/
+    ├── Meeting_3/
     │   └── TBD
     │
-    ├── Spotkanie_4/
+    ├── Meeting_4/
     │   └── TBD
     │
-    ├── Spotkanie_5/
+    ├── Meeting_5/
     │   └── smog_basic_model_API.ipynb
     │
-    ├── Spotkanie_6/
+    ├── Meeting_6/
     │   ├── regularization_ridge_lasso.ipynb
     │   ├── smog_random forrest.ipynb
     │   └── smog_basic_model_API 2.ipynb
     │
-    ├── Spotkanie_7/
+    ├── Meeting_7/
     │   ├── Model/
     │   │   └── pm25_model_xgb.pkl
     │   ├── Data/
@@ -72,18 +72,18 @@ dw-warsaw-project/
     │   ├── Darksky_smog_model_pokaz.ipynb
     │   └── Darksky_smog_prognoza.ipynb
     │
-    ├── Spotkanie_8/
+    ├── Meeting_8/
     │   ├── XGBoost_hyperopt.ipynb
     │   ├── gradient_boosting_darksky_AP - niepodl.ipynb
     │   ├── gradient_boosting_darksky_AP.ipynb	
     │   ├── pipelines.ipynb	
     │   └── smog_XGBoost.ipynb	
     │
-    ├── Spotkanie_9/
+    ├── Meeting_9/
     │   ├── LightGBM_Smog.ipynb
     │   └── smog lstm.ipynb
     │
-    └── Spotkanie_10/
+    └── Meeting_10/
         └── TBD
 ```
 #### Additional:
