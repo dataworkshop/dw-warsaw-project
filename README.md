@@ -20,8 +20,8 @@ Team: (Alphabetic order)
 
 Data:
 
-- dataset_pm25.csv - plik z danymi z IMGW+GIOŚ 2014-2018 
-- data_pm25_plus_darks.csv - plik z danymi z darksky+GIOŚ 2015-2019
+- dataset_pm25.csv - Meteorological data from IMGW, pollution data from GIOŚ (2014-2018)
+- data_pm25_plus_darks.csv - Meteorological data from darksky.net, pollution data from GIOŚ (2015-2019)
 
 Project directory structure:
 
