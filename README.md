@@ -20,6 +20,63 @@ Data:
 - data_pm25_plus_darks.csv - plik z danymi z darksky+GIOŚ 2015-2019
 
 Jupyter files description:
-
+```text
+dw-warsaw-project/
+├── Data
+│   ├── Data Original
+│   │   ├── data_pm25_plus_darksky.csv
+│   │   └── dataset_pm25.csv
+│   ├── 2014.zip
+│   ├── 2014_PM2.5_1g.xlsx
+│   ├── 2018_PM25_1g.xlsx
+│   ├── data_pm25_plus_darksky.csv
+│   └── dataset_pm25.csv
+│  
+├── Project Final Version
+│    └── TBD
+│
+└── Spotkania/
+    ├── Spotkanie_1
+    │   ├── SMOG.ipynb
+    │   ├── pm_25_1g.ipynb
+    │   └── Smog_1_Data_prep.ipynb
+    │
+    ├── Spotkanie_2
+    │   └── TBD
+    │
+    ├── Spotkanie_3
+    │   └── TBD
+    │
+    ├── Spotkanie_4
+    │   └── TBD
+    │
+    ├── Spotkanie_5
+    │   └── smog_basic_model_API.ipynb
+    │
+    ├── Spotkanie_6
+    │   ├── regularization_ridge_lasso.ipynb
+    │   ├── smog_random forrest.ipynb
+    │   └── smog_basic_model_API 2.ipynb
+    │
+    ├── Spotkanie_7
+    │   └── Model
+    │   │   └── pm25_model_xgb.pkl
+    │   ├── Darksky_smog_model_pokaz.ipynb
+    │   └── Darksky_smog_prognoza.ipynb
+    │
+    ├── Spotkanie_8
+    │   ├── XGBoost_hyperopt.ipynb
+    │   ├── gradient_boosting_darksky_AP - niepodl.ipynb
+    │   ├── gradient_boosting_darksky_AP.ipynb	
+    │   ├── pipelines.ipynb	
+    │   └── smog_XGBoost.ipynb	
+    │
+    ├── Spotkanie_9
+    │   ├── LightGBM_Smog.ipynb
+    │   └── smog lstm.ipynb
+    │
+    └── Spotkanie_10
+        └── TBD
+```
 # Information
 - Git instruction: [Git](https://github.com/dataworkshop/dw-cracow-project/wiki/Podstawy-git)
