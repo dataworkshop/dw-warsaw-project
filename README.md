@@ -1,4 +1,10 @@
-# Warsaw Data Workshop projects
+<p align="center">
+  <a href="https://example.com/">
+    <img src="https://raw.githubusercontent.com/JBalcony/DataWorkshop_SMOG/master/DW_warsaw_logo/dw_waw_logo.png" alt="Logo" width=350 height=350>
+</p>
+
+
+# Warsaw Data Workshop Project
 
 #### Welcome to Warsaw Data Workshop projects page!
 The current discussions are conducted on wiki pages:
