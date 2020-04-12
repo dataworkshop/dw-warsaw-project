@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://example.com/">
+  <a href="https://github.com/dataworkshop/dw-warsaw-project">
     <img src="https://raw.githubusercontent.com/JBalcony/DataWorkshop_SMOG/master/DW_warsaw_logo/dw_waw_logo.png" alt="Logo" width=350 height=350>
 </p>
 
