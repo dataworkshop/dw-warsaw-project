@@ -3,7 +3,10 @@
     <img src="https://raw.githubusercontent.com/JBalcony/DataWorkshop_SMOG/master/DW_warsaw_logo/dw_waw_logo.png" alt="Logo" width=350 height=350>
 </p>
 
-#### Welcome to Warsaw Data Workshop projects page!
+<br>
+</br>
+
+## Welcome to Warsaw Data Workshop projects page!
 The current discussions are conducted on wiki pages:
 [Wiki](https://github.com/dataworkshop/dw-warsaw-project/wiki)
 
