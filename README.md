@@ -17,7 +17,7 @@ The current discussions are conducted on wiki pages:
 Team: (Alphabetic order)
 - Adrian: [GitHub](https://github.com/apolens) [Linkedin](https://www.linkedin.com/in/adrian-polens-317b8011a/)
 - Agata: [GitHub](https://github.com/agotukie) [Linkedin](https://www.linkedin.com/in/agata-kielmer/)
-- Janek: [GitHub](https://github.com/JBalcony)
+- Janek: [GitHub](https://github.com/JBalcony) [Linkedin](https://www.linkedin.com/in/jan-tarasiewicz-94761a18a/)
 - Kamil: [Linkedin](https://www.linkedin.com/in/kamil-polak/)
 - Krzysztof:
 - Magdalena: [GitHub]() [Linkedin](https://www.linkedin.com/in/magdalena-cebula/)
