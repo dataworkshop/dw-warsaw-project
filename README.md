@@ -89,8 +89,15 @@ dw-warsaw-project/
     │   ├── LightGBM_Smog.ipynb
     │   └── smog lstm.ipynb
     │
-    └── Meeting_10/
-        └── TBD
+    ├── Meeting_10/
+    │    └── TBD
+    │
+    └── Meeting_11
+    │    └── TBD
+    │
+    └── Meeting_12
+         └── REAMDE.md
+             └── URLs to notebooks  
 ```
 #### Additional:
 - Git manual for beginners: [Git](https://github.com/dataworkshop/dw-cracow-project/wiki/Podstawy-git)
